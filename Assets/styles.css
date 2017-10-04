@@ -1,0 +1,25 @@
+body,
+p {
+  margin: 0
+}
+
+.divheader-wrap {
+  display: inline-block;
+}
+
+.divheader,
+.card {
+  display: inline-block;
+  vertical-align: middle
+}
+
+img {
+  display: block
+}
+hr {
+height: 5px;
+  border: 0;
+  box-shadow: 0 10px 10px -10px #E0E0E0 inset;
+}
+
+
