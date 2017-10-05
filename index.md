@@ -3,9 +3,9 @@
 
 1. Use English as much as possible. 
 
-2. Drop your long code in [paste.ofcode](https://paste.ofcode.org). *Long code* is defined as anything with more than 10 lines.
+2. Drop your long code in [paste.ofcode](https://paste.ofcode.org){:target="_blank"}. *Long code* is defined as anything with more than 10 lines.
 
-3. Save your images in [Imgur](http://imgur.com). 
+3. Save your images in [Imgur](http://imgur.com){:target="_blank"}. 
 
 4. Don't play with bots while people are discussing things related to programming.
 
@@ -19,19 +19,19 @@
 
 0. Don't mass-star messages.
 
-10. **Asking questions is always welcome**. If anyone knows something related to issue, They will surely help. Don't ping users to get attention.
+10. **Asking questions is always welcome**. If anyone knows something related to issue, they will surely help. Don't ping users to get attention.
 
 ### Chatroom Admins 
 <hr>
 The admins in *Android Era with Kotlin and Java* room are:
 
-1. [**Rekire**](https://stackoverflow.com/users/995926/rekire)
-2. [**TheLittleNaruto**](https://stackoverflow.com/users/1944896/thelittlenaruto)
-3. [**Mohsen**](https://stackoverflow.com/users/4409113/mohsen)
-4. [**TheFlash**](https://stackoverflow.com/users/1865479/theflash)
-5. [**DroidDev**](https://stackoverflow.com/users/2389078/droiddev)
-6. [**berserk**](https://stackoverflow.com/users/2944070/berserk)
-7. [**Mukesh Rana**](https://stackoverflow.com/users/3599007/mukesh-rana)
+1. [**Rekire**](https://stackoverflow.com/users/995926/rekire){:target="_blank"}
+2. [**TheLittleNaruto**](https://stackoverflow.com/users/1944896/thelittlenaruto){:target="_blank"}
+3. [**Mohsen**](https://stackoverflow.com/users/4409113/mohsen){:target="_blank"}
+4. [**TheFlash**](https://stackoverflow.com/users/1865479/theflash){:target="_blank"}
+5. [**DroidDev**](https://stackoverflow.com/users/2389078/droiddev){:target="_blank"}
+6. [**berserk**](https://stackoverflow.com/users/2944070/berserk){:target="_blank"}
+7. [**Mukesh Rana**](https://stackoverflow.com/users/3599007/mukesh-rana){:target="_blank"}
 
 
 ### Notes
