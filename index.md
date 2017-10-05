@@ -1,4 +1,4 @@
-### What Are The *Android Era with Kotlin and Java* Rules ?
+### What Are The Rules ?
 <hr>
 
 1. Use English as much as possible. 
