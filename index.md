@@ -39,8 +39,8 @@ The admins in *Android Era with Kotlin and Java* room are:
 
 > Bots are allowed, but bots out of control are not. Notify the ROs by tagging if a bot is spamming or in any other way out of control. ROs can then kick the bot until the issue has been resolved.
 
-* The room is for people And by people, Just like **Stack Overflow**. Please work towards keeping it clean and healthy, Thanks :)
+* The room is for people And by people, Just like **Stack Overflow**. Please work towards keeping it clean and healthy, thanks. :)
 
 That's all, 
-Enjoy the chatroom, and happy coding!
+enjoy the chatroom and happy coding!
 
